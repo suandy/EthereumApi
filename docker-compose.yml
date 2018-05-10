@@ -4,6 +4,7 @@ services:
     image: ethereum-api
     volumes: 
       - "./routes:/opt/app/routes"
+      - "./temp:/opt/app/temp"
     build:
       context: .
       dockerfile: Dockerfile
