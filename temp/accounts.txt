@@ -1,0 +1,102 @@
+Ganache CLI v6.1.8 (ganache-core: 2.2.1)
+
+Available Accounts
+==================
+(0) 0xacd8fbb63ed71c75a331187b94b80366ffff21a0 (~100 ETH)
+(1) 0xb5116c15b91fcb68c84e6762b3116947d7d966b6 (~100 ETH)
+(2) 0x3ce9d43db2858e9d90cccdd89fdc37823abf77ad (~100 ETH)
+(3) 0x309394da26e4a7158b6e3bba66a5752f0ecf15a0 (~100 ETH)
+(4) 0xbcf413ba4d696fef5d89fd377d1169bb6545800e (~100 ETH)
+(5) 0xb1c9d52f69a861d2b2a2d87bffeb0f617ab24f27 (~100 ETH)
+(6) 0x2976e37cea734df087e0579b99b70e965811dcd8 (~100 ETH)
+(7) 0x5ab5b4e04830734f73c124a1e147cdee734507e1 (~100 ETH)
+(8) 0x5f2c7c1eaf21065e08c83a944c8b21e7a2a323c9 (~100 ETH)
+(9) 0x868d7694105b23ef5b3a6be4d62e0d6b2bb70bc3 (~100 ETH)
+
+Private Keys
+==================
+(0) 0x712ebe37b3ca6362c923ecb1622bff5078dadee2fdb2f8b0d0bbe02141832460
+(1) 0x27e2ec0ed01334228eded97467d22b9696ff3ceb8fa45e41cee4937795a530b7
+(2) 0x7961f0f866bd8d621a1d035c7f0483a1ceae48cf177cc24edcc1e7df947d6b2b
+(3) 0xf4fbf6262a454d94fc3d4a5ed477d06a579ee1cf02945a241624777842d4f74f
+(4) 0xcb26d7d785d7a9cec5af5cb3561fbe914fe54a55c0f993af307ab691e4215374
+(5) 0x581f4acc5bb12b4ccb4880da215878ebb1c16a0c025cb57b19d42247a8e587da
+(6) 0x46afe7df2abb7125e2e7c416578b742f8610517c3c3728f486888f7d464ff258
+(7) 0x858cbaf0bf2143cd15506b58db42e357ee7bdd35e389306b373a9e9b1f09ce15
+(8) 0x21897b966ebfc4eca4a24153b60a3239d995e22e158e7b6e1fc0c2f47dd8a366
+(9) 0x7ec50769517a90d8c91f6d9bdafa15066a9cf73f0557f8ae7f56277ea0fe51f9
+
+HD Wallet
+==================
+Mnemonic:      hen main drip elder tool kidney flee answer describe priority shed fabric
+Base HD Path:  m/44'/60'/0'/0/{account_index}
+
+Gas Price
+==================
+20000000000
+
+Gas Limit
+==================
+6721975
+
+Listening on 127.0.0.1:8545
+net_version
+eth_accounts
+eth_accounts
+net_version
+net_version
+eth_sendTransaction
+
+  Transaction: 0xd840c59f12952e9edbe3277c6d30cecd9f422e91027629ab14838535e9c138d5
+  Contract created: 0x9b13e1e900fbe369eb57ec59132f9e4091ef5fd3
+  Gas usage: 277462
+  Block Number: 1
+  Block Time: Sun Oct 14 2018 16:32:58 GMT-0400 (EDT)
+
+eth_newBlockFilter
+eth_getFilterChanges
+eth_getTransactionReceipt
+eth_getCode
+eth_uninstallFilter
+eth_sendTransaction
+
+  Transaction: 0x20ad6b26da480dd8a63c40187e0af2255d8ce1ee15e205baab1c7479f3b86c0e
+  Gas usage: 42008
+  Block Number: 2
+  Block Time: Sun Oct 14 2018 16:32:58 GMT-0400 (EDT)
+
+eth_getTransactionReceipt
+eth_accounts
+net_version
+net_version
+eth_sendTransaction
+
+  Transaction: 0x2ed5b65de4e53898ea797b9e3523a9c70ce5ab087c9c134ab4f24d4f5d4a3aeb
+  Contract created: 0x4f87e72f9d63dccc8ff8258334862b5b6c68e817
+  Gas usage: 139517
+  Block Number: 3
+  Block Time: Sun Oct 14 2018 16:32:58 GMT-0400 (EDT)
+
+eth_newBlockFilter
+eth_getFilterChanges
+eth_getTransactionReceipt
+eth_getCode
+eth_uninstallFilter
+eth_sendTransaction
+
+  Transaction: 0xe4045a421d340c7deb37722ef27d07614609a58bfe9be7a33d040ab4a16aa5d4
+  Gas usage: 27008
+  Block Number: 4
+  Block Time: Sun Oct 14 2018 16:32:58 GMT-0400 (EDT)
+
+eth_getTransactionReceipt
+eth_gasPrice
+net_version
+eth_sendTransaction
+
+  Transaction: 0xb353265fc36f960c99b549bb8f5cc298260a197c20dffbf668db18f4bda2dfc2
+  Gas usage: 21000
+  Block Number: 5
+  Block Time: Sun Oct 14 2018 16:42:56 GMT-0400 (EDT)
+
+eth_getBalance

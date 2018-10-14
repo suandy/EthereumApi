@@ -53,7 +53,7 @@ var router = express.Router();
 *******************************************************************************/
 
 
-router.get('/create', function (req, res) {
+router.post('/create', function (req, res) {
     contract.deployed().then(function () {
         // Should modify the password
         return personal.newAccount('password');
